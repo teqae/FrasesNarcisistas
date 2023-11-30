@@ -21,5 +21,5 @@
 ## Vista previa:
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1167594085029269514/1179592590413275227/frases2.png?ex=657a5835&is=6567e335&hm=17703c714591bc83ee344754fcda9466c5bd5aaec0df0ec5ebef7c4ac42fc026&=&format=webp&quality=lossless" height="340"/>
+  <img src="https://media.discordapp.net/attachments/1167594085029269514/1179592590413275227/frases2.png?ex=657a5835&is=6567e335&hm=17703c714591bc83ee344754fcda9466c5bd5aaec0df0ec5ebef7c4ac42fc026&=&format=webp&quality=lossless" height="240"/>
 </p>
